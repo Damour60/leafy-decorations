@@ -3,7 +3,7 @@ html {
 }
 
 .masthead {
-  background: url(../images/);
+  background: url("../images/leaf-bg.svg");
   background-size: ;
   background-color: ;
   border-top: ;
@@ -29,7 +29,7 @@ html {
 
 .nav a:hover {
   color: ;
-  background: ;
+  background: url("../images/leaf-icon.svg");
   background-repeat: ;
   background-size: ;
   background-position: ;
@@ -37,14 +37,16 @@ html {
 }
 
 .banner {
-  background: ;
-  background-size: ;
+  background:
+  linear-gradient(to top, rgba(16, 52,41, .8) 5%, rgba(16, 52, 41, 0) 50%) no-repeat center bottom,
+  url("../images/banner.jpg") no-repeat center bottom;
+  background-size: cover;
   border-bottom: ;
 
 }
 
 .banner-content {
-  background: ;
+  background: url("../images/two-leaves.svg");
   background-repeat: ;
   background-size: ;
   background-position: ;
