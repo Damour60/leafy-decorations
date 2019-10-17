@@ -21,18 +21,35 @@ html {
 
 .nav a {
   text-decoration: none;
+  color: ;
+  background-color: ;
+  border: ;
+  border-radius: ;
 }
 
 .nav a:hover {
-
+  color: ;
+  background: ;
+  background-repeat: ;
+  background-size: ;
+  background-position: ;
+  background-color: ;
 }
 
 .banner {
+  background: ;
+  background-size: ;
+  border-bottom: ;
 
 }
 
 .banner-content {
-
+  background: ;
+  background-repeat: ;
+  background-size: ;
+  background-position: ;
+  padding-top: ;
+  color: ;
 }
 
 @media only screen and (min-width: 60em) {
